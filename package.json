@@ -1,8 +1,8 @@
 {
-  "name": "hotrestaurant",
+  "name": "Scholarshipfinder",
   "version": "1.0.1",
   "description": "",
-  "main": "server.js",
+  "main": "P3Server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

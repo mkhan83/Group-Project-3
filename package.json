@@ -1,8 +1,8 @@
 {
-  "name": "Scholarshipfinder",
-  "version": "1.0.1",
+  "name": "mongo_homework",
+  "version": "1.0.0",
   "description": "",
-  "main": "P3Server.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
-    "express": "^4.13.4"
-  },
-  "engines": {
-    "node": "5.3.0"
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.4.6",
+    "request": "^2.69.0"
   }
 }
